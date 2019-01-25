@@ -13,6 +13,9 @@
 		238F009D21FACA1D00B6E574 /* TicTacToe2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 238F009B21FACA1D00B6E574 /* TicTacToe2.xcdatamodeld */; };
 		238F009F21FACA2100B6E574 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 238F009E21FACA2100B6E574 /* Assets.xcassets */; };
 		238F00A221FACA2100B6E574 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 238F00A021FACA2100B6E574 /* LaunchScreen.storyboard */; };
+		238F00AC21FACAA800B6E574 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = 238F00A921FACAA800B6E574 /* x.png */; };
+		238F00AD21FACAA800B6E574 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 238F00AA21FACAA800B6E574 /* background.png */; };
+		238F00AE21FACAA800B6E574 /* o.png in Resources */ = {isa = PBXBuildFile; fileRef = 238F00AB21FACAA800B6E574 /* o.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		238F009E21FACA2100B6E574 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		238F00A121FACA2100B6E574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		238F00A321FACA2100B6E574 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		238F00A921FACAA800B6E574 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		238F00AA21FACAA800B6E574 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		238F00AB21FACAA800B6E574 /* o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				238F00A021FACA2100B6E574 /* LaunchScreen.storyboard */,
 				238F00A321FACA2100B6E574 /* Info.plist */,
 				238F009B21FACA1D00B6E574 /* TicTacToe2.xcdatamodeld */,
+				238F00AA21FACAA800B6E574 /* background.png */,
+				238F00AB21FACAA800B6E574 /* o.png */,
+				238F00A921FACAA800B6E574 /* x.png */,
 			);
 			path = TicTacToe2;
 			sourceTree = "<group>";
@@ -125,7 +134,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				238F00AC21FACAA800B6E574 /* x.png in Resources */,
+				238F00AD21FACAA800B6E574 /* background.png in Resources */,
 				238F00A221FACA2100B6E574 /* LaunchScreen.storyboard in Resources */,
+				238F00AE21FACAA800B6E574 /* o.png in Resources */,
 				238F009F21FACA2100B6E574 /* Assets.xcassets in Resources */,
 				238F009A21FACA1D00B6E574 /* Main.storyboard in Resources */,
 			);
